@@ -1,0 +1,11 @@
+@media (pointer: fine) {
+    .fi-ta-content-ctn.fi-table-drag-scrollable {
+        cursor: grab;
+    }
+}
+
+html.fi-table-drag-scroll-active,
+html.fi-table-drag-scroll-active * {
+    cursor: grabbing !important;
+    user-select: none !important;
+}
