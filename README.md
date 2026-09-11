@@ -4,6 +4,8 @@
 [![Tests](https://img.shields.io/github/actions/workflow/status/Majid-Shafik/filament-table-drag-scroll/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/Majid-Shafik/filament-table-drag-scroll/actions)
 [![Total Downloads](https://img.shields.io/packagist/dt/majid-shafik/filament-table-drag-scroll.svg?style=flat-square)](https://packagist.org/packages/majid-shafik/filament-table-drag-scroll)
 
+![Table Drag Scroll Demo](filament-table-drag-scroll.gif)
+
 Grab and drag horizontally scrollable Filament tables with a mouse. The package works with Filament panels and standalone tables, including RTL layouts, Livewire updates, and SPA navigation.
 
 ## Features
