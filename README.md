@@ -3,6 +3,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/majid-shafik/filament-table-drag-scroll.svg?style=flat-square)](https://packagist.org/packages/majid-shafik/filament-table-drag-scroll)
 [![Tests](https://img.shields.io/github/actions/workflow/status/Majid-Shafik/filament-table-drag-scroll/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/Majid-Shafik/filament-table-drag-scroll/actions)
 [![Total Downloads](https://img.shields.io/packagist/dt/majid-shafik/filament-table-drag-scroll.svg?style=flat-square)](https://packagist.org/packages/majid-shafik/filament-table-drag-scroll)
+[![PlumbPHP Quality](https://img.shields.io/badge/PlumbPHP-100%2F100-brightgreen.svg?style=flat-square)](https://plumbphp.dev/majid-shafik/filament-table-drag-scroll)
 
 ![Table Drag Scroll Demo](filament-table-drag-scroll.gif)
 
@@ -76,6 +77,7 @@ After changing package assets, run `php artisan filament:assets` again.
 composer test
 composer test:lint
 composer analyse
+npm run test
 node --check resources/js/table-drag-scroll.js
 ```
 
@@ -85,7 +87,7 @@ See [CHANGELOG.md](CHANGELOG.md) for release history.
 
 ## Security
 
-Please report security issues privately as described in [SECURITY.md](.github/SECURITY.md).
+Please report security issues privately as described in [SECURITY.md](SECURITY.md).
 
 ## License
 
