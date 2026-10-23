@@ -24,6 +24,6 @@
   "homepage": "https://github.com/Majid-Shafik/filament-table-drag-scroll#readme",
   "devDependencies": {
     "jsdom": "^29.1.1",
-    "vitest": "^5.0.3"
+    "vitest": "^5.0.5"
   }
 }
